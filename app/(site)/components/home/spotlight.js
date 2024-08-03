@@ -12,7 +12,7 @@ const SpotlightSection = () => {
                 </div>
                 <div className="flex flex-col lg:flex-row gap-6 lg:w-2/3">
                     <div className="relative bg-black rounded-lg overflow-hidden shadow-lg group">
-                        <img src="/s.jpg" alt="Padma Bridge" className="w-full h-full object-cover opacity-70 group-hover:opacity-100 transition duration-300" />
+                        {/* <img src="/s.jpg" alt="Padma Bridge" className="w-full h-full object-cover opacity-70 group-hover:opacity-100 transition duration-300" />
                         <div className="absolute inset-0 p-4 flex flex-col justify-end bg-gradient-to-t from-black to-transparent">
                             <span className="bg-blue-500 text-white text-xs px-2 py-1 rounded-md inline-block mb-2 max-w-max">Channel 1 TV</span>
                             <h4 className="text-white text-lg font-bold mb-2 opacity-80">Padma Bridge Documentary For Inaugural</h4>
@@ -22,15 +22,17 @@ const SpotlightSection = () => {
                             <a href="https://www.youtube.com/" target="_blank" rel="noopener noreferrer" className="text-white text-4xl">
                                 <FaPlay className="opacity-100 transition duration-300" />
                             </a>
-                        </div>
+                        </div> */}
+                        <iframe width="560" height="315" src="https://www.youtube.com/embed/WmPTjk4TowQ?si=f1wtJL_uuXnsY8EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
                     </div>
                     <div className="relative bg-black rounded-lg overflow-hidden shadow-lg group">
-                        <img src="/s.jpg" alt="Smart Bangladesh Vision" className="w-full h-full object-cover opacity-70 group-hover:opacity-100 transition duration-300" />
+                        {/* <img src="/s.jpg" alt="Smart Bangladesh Vision" className="w-full h-full object-cover opacity-70 group-hover:opacity-100 transition duration-300" />
                         <div className="absolute inset-0 p-4 flex flex-col justify-end bg-gradient-to-t from-black to-transparent">
                             <span className="bg-blue-500 text-white text-xs px-2 py-1 rounded-md inline-block mb-2 max-w-max">Desh TV News</span>
                             <h4 className="text-white text-lg font-bold mb-2 opacity-80">Smart Bangladesh Vision 2041</h4>
                             <p className="text-white text-sm opacity-80">Smart Bangladesh is about inclusivity, focusing on the citizens of Bangladesh. Built on four pillars: Smart Citizens, Smart Government...</p>
-                        </div>
+                        </div> */}
+                        <iframe width="560" height="315" src="https://www.youtube.com/embed/J7bVcC85gDA?si=6ioeNAieVB7719og" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
                         <div className="absolute inset-0 flex items-center justify-center">
                             <a href="https://www.youtube.com/" target="_blank" rel="noopener noreferrer" className="text-white text-4xl">
                                 <FaPlay className="opacity-100 transition duration-300" />

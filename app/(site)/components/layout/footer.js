@@ -43,7 +43,7 @@ const Footer = () => {
             <img src="/log.jpg" alt="NIMC Journal and Blog" className="h-12" />
           </div> */}
           <p className="text-2xl">Bangladesh Under Attack</p>
-          <p className="text-sm">Government of the People's Republic Bangladesh</p>
+          {/* <p className="text-sm">Government of the People's Republic Bangladesh</p> */}
           <div className="text-xs mb-4 mt-4">
             <a href="#" className="mx-2 hover:underline">Privacy Policy</a>|
             <a href="#" className="mx-2 hover:underline">Cookie Policy</a>|

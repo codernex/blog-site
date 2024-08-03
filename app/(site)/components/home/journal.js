@@ -8,10 +8,10 @@ const Journal = () => {
 					<div className="flex items-center">
 						<div className='lg:w-[560px]'>
 							<h3 className='text-2xl font-bold inline-block mb-4 max-w-max'>
-								NIMC Online English Journal and Blog
+								Bangladesh Under Attack
 							</h3>
 							<p className='text-gray-700 my-6'>
-								The NIMC Online English Journal and Blog is a platform for the National Institute of Mass Communication (NIMC) to share its research, analysis, and insights on a wide range of topics. Our goal is to provide readers with a deeper understanding of the issues that matter most to Bangladesh and the world.
+								The Bangladesh Under Attack is a platform for the National Institute of Mass Communication (NIMC) to share its research, analysis, and insights on a wide range of topics. Our goal is to provide readers with a deeper understanding of the issues that matter most to Bangladesh and the world.
 							</p>
 							<button className='bg-blue-500 text-white px-4 py-2 rounded-lg hover:bg-blue-600 transition duration-300'>
 								Keep Reading
@@ -20,11 +20,11 @@ const Journal = () => {
 					</div>
 					<div className='grid grid-cols-1 sm:grid-cols-2 gap-6'>
 						<div className='grid grid-rows-2 gap-6'>
-							<img src='/s1.jpg' alt='Journal Image' className='w-full object-cover rounded-lg shadow-lg' />
-							<img src='/s2.jpg' alt='Journal Image' className='w-full object-cover rounded-lg shadow-lg' />
+							<img src='/p4.webp' alt='Journal Image' className='w-full object-cover rounded-lg shadow-lg' />
+							<img src='/p5.webp' alt='Journal Image' className='w-full object-cover rounded-lg shadow-lg' />
 						</div>
 						<div className='relative'>
-							<img src='/s3.jpg' alt='Journal Image' className='w-full h-full object-cover rounded-lg shadow-lg' />
+							<img src='/p6.webp' alt='Journal Image' className='w-full h-full object-cover rounded-lg shadow-lg' />
 						</div>
 					</div>
 				</div>
