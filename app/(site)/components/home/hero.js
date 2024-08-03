@@ -8,12 +8,14 @@ const HeroSection = () => {
 
                 <div class="md:w-2/3">
                     <div class="relative">
-                        <img src="/hasina.jpeg" alt="Prime Minister Sheikh Hasina" class="w-full h-auto" />
+                        {/* <img src="/p3.webp" alt="Prime Minister Sheikh Hasina" class="w-full h-auto" /> */}
+                        <iframe width="840" height="505" src="https://www.youtube.com/embed/u5el4WBnekQ?si=wGN3pbG2PykjSZhI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
                         <div class="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black to-transparent p-6">
-                            <span class="bg-blue-600 text-white px-2 py-1 text-sm mb-2 inline-block">Energy and Environment</span>
-                            <h2 class="text-white text-2xl md:text-3xl font-bold mb-2">Honorable Prime Minister Sheikh Hasina Accepts GCA Local Adaptation Champions Award</h2>
-                            <p class="text-gray-300 text-sm">gca.org</p>
-                            <p class="text-gray-300 text-sm">11 June 2024</p>
+                            {/* <span class="bg-blue-600 text-white px-2 py-1 text-sm mb-2 inline-block">Energy and Environment</span> */}
+                            <h2 class="text-white text-2xl md:text-3xl font-bold mb-2">Elevated Expressway's Banani toll plaza set on fire amid blackout by BNP-Jamaat Terrorist
+                            </h2>
+                            {/* <p class="text-gray-300 text-sm">gca.org</p> */}
+                            <p class="text-gray-300 text-sm">03 August 2024</p>
                         </div>
                     </div>
                 </div>

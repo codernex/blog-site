@@ -14,7 +14,7 @@ const Event = () => {
           </p>
         </div>
         <div className="flex items-center justify-center">
-          <img src="/e1.jpg" alt="Event Image" className="w-full h-80 object-cover rounded-lg shadow-lg" />
+          <img src="/p1.webp" alt="Event Image" className="w-full h-80 object-cover rounded-lg shadow-lg" />
         </div>
         <div className="group bg-white p-8 rounded-lg shadow-lg transition-transform duration-300 transform hover:scale-105 hover:shadow-xl hover:bg-indigo-600 flex flex-col justify-between overflow-hidden">
           <div className="transition-all duration-300 group-hover:border-blue-500 border-l-4 pl-4">
@@ -29,7 +29,7 @@ const Event = () => {
 
       <div className="grid grid-cols-1 mt-6 sm:grid-cols-2 md:grid-cols-3 gap-6">
         <div className="flex items-center justify-center">
-          <img src="/e2.jpg" alt="Event Image" className="w-full h-80 object-cover rounded-lg shadow-lg" />
+          <img src="/p2.webp" alt="Event Image" className="w-full h-80 object-cover rounded-lg shadow-lg" />
         </div>
         <div className="group bg-white p-8 rounded-lg shadow-lg transition-transform duration-300 transform hover:scale-105 hover:shadow-xl hover:bg-indigo-600 flex flex-col justify-between overflow-hidden">
           <div className="transition-all duration-300 group-hover:border-blue-500 border-l-4 pl-4">
@@ -41,7 +41,7 @@ const Event = () => {
           </p>
         </div>
         <div className="flex items-center justify-center">
-          <img src="/e3.jpg" alt="Event Image" className="w-full h-80 object-cover rounded-lg shadow-lg" />
+          <img src="/p3.webp" alt="Event Image" className="w-full h-80 object-cover rounded-lg shadow-lg" />
         </div>
       </div>
     </div>

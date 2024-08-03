@@ -14,7 +14,7 @@ const Header = () => {
         <div className="container mx-auto px-4 py-3 flex justify-between items-center">
           <div className="flex items-center justify-center flex-grow">
             <div className="flex items-center justify-center space-x-2 w-full">
-              <span className="font-semibold text-end w-full">Bangladesh Under Attack</span>
+              <span className="font-semibold text-2xl text-end w-full">Bangladesh Under Attack</span>
             </div>
           </div>
           <div className="flex items-center space-x-4 flex-grow justify-end">
