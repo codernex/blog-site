@@ -11,8 +11,8 @@ import { UserContextProvider } from "../contexts/user";
 import Header from "./components/layout/header";
 
 export const metadata = {
-  title: "Demo Site",
-  description: "Demo Site.",
+  title: "BD Under Attack - Bangladesh Under Attack",
+  description: "BD Under Attack - Bangladesh Under Attack.",
 };
 
 
